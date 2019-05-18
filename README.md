@@ -1,3 +1,7 @@
+![Weather-App](https://i.ibb.co/cwN3txs/image.png)
+
+![Weather-App](https://i.ibb.co/yNV1L89/image.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
